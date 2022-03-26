@@ -37,8 +37,8 @@ Os *datasets* utilizados nesse notebook referentes a **Cota para Exercício da A
  * 2. [Extra: Quais Lideranças tiveram mais gastos ao longo do tempo?](https://colab.research.google.com/drive/1Wu2AiQivAIBMHlUvtdok33ZEnsUtjf67#scrollTo=2_Quais_Lideran_as_tiveram_mais_gastos_ao_longo_do_tempo_)
 
 ## Referências Bibliográficas
-*   [Informações e legislação sobre as cotas para o exercício da atividade parlamentar](https://www2.camara.leg.br/transparencia/acesso-a-informacao/copy_of_perguntas-frequentes/cota-para-o-exercicio-da-atividade-parlamentar)
-*   [Líder Partidário](https://www2.camara.leg.br/comunicacao/assessoria-de-imprensa/guia-para-jornalistas/lider)
+*   [Informações e legislação sobre as cotas para o exercício da atividade parlamentar.](https://www2.camara.leg.br/transparencia/acesso-a-informacao/copy_of_perguntas-frequentes/cota-para-o-exercicio-da-atividade-parlamentar)
+*   [Líder Partidário.](https://www2.camara.leg.br/comunicacao/assessoria-de-imprensa/guia-para-jornalistas/lider)
 
 ## Colaborações
 <p align="left">
